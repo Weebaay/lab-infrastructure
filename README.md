@@ -87,10 +87,11 @@ VLAN10 20 30 40 50   VLAN60
 ```
 ├── README.md
 ├── scripts/
-│   └── ActiveDHCP.ps1          # Script PowerShell de configuration DHCP automatique
+│   └── ActiveDHCP.ps1     
 ├── cisco/
-│   └── vlan-config.md          # Commandes Cisco utilisées (VLANs, trunk, dot1Q, SVI)
-└── screenshots/                # Captures d'écran des étapes clés
+│   └── vlan-config.md     
+└── debian/
+    └── glpi-install.md    
 ```
 
 ---
